@@ -1,16 +1,20 @@
-## Hi there 👋
+### Привет! Я Судоргин Даниил 👋
+Разработчик веб-приложений, верстальщик, frontend программист.
 
-<!--
-**Zilusion/Zilusion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Навыки
+- HTML, CSS: Семантическая верстка, адаптивный дизайн, использование методологии БЭМ.
+- JavaScript: ES5/ES6, взаимодействие с DOM, работа с событиями и основами API.
+- Node.js: Работа с серверной частью, настройка маршрутов, базовый REST API.
+- Препроцессоры: SASS/SCSS.
+- Шаблонизаторы: Pug.
+- Инструменты: Npm, Gulp, Git, GitHub.
+- Графические редакторы: Figma, Photoshop.
+- Основы: PHP, C#.
+- Язык: Английский — B2.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Контакты
+- E-mail: ddsudorgin@gmail.com
+- Мобильный телефон: +7 925 876 96 46
+- Telegram: @sudorgindaniil
+- GitHub: github.com/Zilusion
