@@ -28,7 +28,8 @@ private.
 
 More of the ecosystem:
 [Lookbook](https://projects.sudorgin.com/lookbook/) ·
-[UI Kit](https://projects.sudorgin.com/kit/)
+[UI Kit](https://projects.sudorgin.com/kit/) ·
+[Full commercial case study](https://projects.sudorgin.com/workspace/)
 
 ## Selected projects
 
